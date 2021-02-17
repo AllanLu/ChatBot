@@ -13,3 +13,6 @@
 [基于深度强化学习的对话生成](https://zhuanlan.zhihu.com/p/149580680)
 
 [深度学习在智能对话系统中的应用总结](https://zhuanlan.zhihu.com/p/144988602)
+
+## 语料库
+[Dialog_Corpus](https://github.com/candlewill/Dialog_Corpus)
